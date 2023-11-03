@@ -46,23 +46,21 @@
                 </div>
                 <div class="overlap-group-wrapper">
                     <div class="overlap-group">
-
-
                     </div>
                 </div>
                 <div class="perguntas-2">
-                    <div class="text-wrapper-4">
-                        <label for="email">E-mail:</label>
+                    <div class="text-wrapper-6">
+                        <label for="text-wrapper-6">E-mail:</label>
                         <input type="email" id="email" name="email" required>
                         <br>
                     </div>
                     <div class="text-wrapper-5">
-                        <label for="senha">Senha:</label>
+                        <label for="text-wrapper-5">Senha:</label>
                         <input type="password" id="senha" name="senha" required>
                         <br>
                     </div>
-                    <div class="text-wrapper-6">
-                        <label for="confirmar-senha">Confirmar Senha:</label>
+                    <div class="text-wrapper-4">
+                        <label for="text-wrapper-4">Confirmar Senha:</label>
                         <input type="password" id="confirmar-senha" name="confirmar-senha" required>
                         <br>
                     </div>
