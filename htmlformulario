@@ -89,9 +89,11 @@
                 </div>
                 <div class="boto-cadastro">
                     <div class="overlap-3">
-                        <div class="botao-cadastro"></div>
-                        <div class="text-wrapper-7">
-                            <button type="submit">Cadastrar</button>
+                        <div class="botao-cadastro">
+                            <div class="text-wrapper-7">
+                                <a class="botao-cadastro" href="">Cadastrar</a>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
